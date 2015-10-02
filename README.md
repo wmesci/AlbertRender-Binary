@@ -25,12 +25,12 @@
 * 分布式渲染
 * 移植到GPU上
 
+![github](https://raw.githubusercontent.com/wmesci/AlbertRender/master/image.png "实时预览")
 ![github](https://raw.githubusercontent.com/wmesci/AlbertRender/master/image0.png "实时预览")
 ![github](https://raw.githubusercontent.com/wmesci/AlbertRender/master/image1.png "")
 ![github](https://raw.githubusercontent.com/wmesci/AlbertRender/master/image2.png "")
 ![github](https://raw.githubusercontent.com/wmesci/AlbertRender/master/image3.png "")
 ![github](https://raw.githubusercontent.com/wmesci/AlbertRender/master/image4.png "")
 ![github](https://raw.githubusercontent.com/wmesci/AlbertRender/master/image5.png "")
-
 ![github](https://raw.githubusercontent.com/wmesci/AlbertRender/master/image6.png "")
 
